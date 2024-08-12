@@ -18,19 +18,22 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Mcdonald's Data Chronicles
+title: ## Mcdonald's Data Chronicles
 email: Akogwu1998@gmail.com
-description: >- # Welcome to Mcdonald's Data Chronicles! Join me as I embark on an exciting journey to master the field of data analytics. Through this blog, I'll be sharing my learning experiences, insights, and discoveries as I dive deep into data, explore new tools, and grow my skills. Whether you're a fellow learner or just curious about data, I hope my journey inspires and informs you along the way. Let's unlock the power of data together!
+description: >- # Welcome to Mcdonald's Data Chronicles! 
+about: # Through this blog, I'll be sharing my learning experiences, insights, and discoveries as I dive deep into data, explore new tools, and grow my skills. 
 baseurl: "" # /blog
 url: "" # https://Mcdonald006.github.io
 twitter_username: https://twitter.com/m_mylze
 github_username:  https://github.com/Mcdonald006
+instagram username: www.instagram.com/i__mcdonald/
+linkedin profile: www.linkedin.com/in/mcdonald-akogwu-b2998214a
 
 # Build settings
-theme: minima
+theme: cayman
 
 minima:
-  skin: light
+  skin: dark
 
 plugins:
   - jekyll-feed
